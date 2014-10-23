@@ -1,0 +1,14 @@
+Revisi Situs Simak Unsil 1
+
+* Header
+1. Mengganti gambar header dengan gambar universitas siliwangi
+2. Mengganti judul header dengan selamat datang di sistem informasi akademik universitas siliwangi
+3. Mengganti warna background header dengan warna hijau muda (#009900)
+4. Menggunakan teks berjalan pada judul / title pada header dari kanan ke kiri
+5. Merubah warna opsi klik pada menu box dengan warna merah jika kursor mouse di arahkan ke menu box menjadi warna merah
+6. merubah warna kata kata mutiara pada header menjadi warna merah dan background nya menjadi warna hijau terang (#99CC00)
+
+* Body
+1. Merubah penempatan menu login menjadi ke sebelah kanan 
+2. Merubah menu login menjadi border 2px solid untuk memperkecil border pada tabel awal yang asalnya 5px solid
+3. Memindahkan menu F.A.Q kesebelah kanan
