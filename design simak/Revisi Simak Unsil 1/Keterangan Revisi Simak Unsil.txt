@@ -1,7 +1,7 @@
 Revisi Situs Simak Unsil 1
 
 * Header
-1. Mengganti gambar header dengan gambar universitas siliwangi
+1. Mengganti gambar header dengan gambar universitas siliwangi terbaru
 2. Mengganti judul header dengan selamat datang di sistem informasi akademik universitas siliwangi
 3. Mengganti warna background header dengan warna hijau muda (#009900)
 4. Menggunakan teks berjalan pada judul / title pada header dari kanan ke kiri
